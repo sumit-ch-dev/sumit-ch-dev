@@ -25,3 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit-ch-dev&show_icons=true&locale=en" alt="sumit-ch-dev" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-ch-dev&" alt="sumit-ch-dev" /></p>
+
