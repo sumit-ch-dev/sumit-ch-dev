@@ -29,8 +29,10 @@
 
 ###
 
-<p align="left">I'm Sumit Chakraborty from Dhaka, Bangladesh<br><br>- 🔭 I’m working as a Software Development Trainee at BJIT<br>- 📚 I'm currently learning ReactJs, TailwindCSS, Django REST API, NodeJs<br>- ⚡ In my free time I like to solve programming problems and create bugs</p>
+<p align="left">I'm Sumit Chakraborty from Dhaka, Bangladesh<br><br>- 🔭<br>- 📚 I'm currently learning ReactJs, TailwindCSS, Django REST API, NodeJs<br>- ⚡ In my free time I like to solve programming problems and create bugs</p>
 
+
+<p align="left">Learning PostgreSQL and fluent with MONGODB<br><br>- 🔭<br>- 📚 <br>- ⚡ </p>
 ###
 
 #### My Portfolio: https://my-portfolio-6g8iwcg8m-sumit1729.vercel.app/
