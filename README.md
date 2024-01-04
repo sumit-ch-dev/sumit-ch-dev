@@ -29,10 +29,10 @@
 
 ###
 
-<p align="left">I'm Sumit Chakraborty from Dhaka, Bangladesh<br><br>- 🔭<br>- 📚 I'm currently learning ReactJs, TailwindCSS, Django REST API, NodeJs<br>- ⚡ In my free time I like to solve programming problems and create bugs</p>
+<p align="left">I'm Sumit Chakraborty from Dhaka, Bangladesh<br><br>- 🔭<br>- 📚 I'm currently learning ReactJs, TailwindCSS, Django REST API, NodeJs and ExpressJs. I can build REST APIs from scratch, validation, error handling, authentication and authorization, testing with postman and jest. Also have experience with containers and deployments.<br>- ⚡ In my free time I like to solve programming problems and create bugs</p>
 
 
-<p align="left">- ⚡ Learning PostgreSQL and fluent with MONGODB<br><br>- 🔭<br>-<br>-</p>
+<p align="left">- ⚡ Learning PostgreSQL and fluent with NoSQL database(MongoDB)<br><br>- 🔭<br>-<br>-</p>
 <p align="left">- ⚡ Passionate MERN Fullstack Developer with expertise in building robust and scalable web applications. Proficient in MongoDB, Express.js, React, and Node.js, with a keen eye for UI/UX design. Well-versed in cloud technologies, specifically AWS, and skilled in containerization with Docker. Proven track record of delivering high-quality software solutions. Eager to contribute technical prowess and innovation to dynamic projects.</p>
 
 #### My Portfolio: https://my-portfolio-6g8iwcg8m-sumit1729.vercel.app/
